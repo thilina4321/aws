@@ -1,4 +1,4 @@
-# AWS Services Recap and Learning Repository
+# AWS Services Recap for new UI changes and Learning Repository
 
 This repository serves as a comprehensive collection of AWS service recaps and learning resources. It includes updated user interfaces (UIs) for various AWS services and also provides guidance for exploring AWS services that you haven't yet touched. Whether you are a beginner or an experienced AWS user, this repository aims to help you review existing services and expand your knowledge by exploring new ones.
 
@@ -34,7 +34,8 @@ This repository includes recaps of the following AWS services:
 - Amazon SNS (Simple Notification Service)
 - Amazon Lambda
 - Amazon API Gateway
-- And many more!
+- Route53 & CloudFront 
+- Cloud Migrations
 
 Each service recap provides an overview of the service, its key features, and a visual representation of the updated UI. Detailed explanations and code examples are included to enhance your understanding.
 
@@ -43,9 +44,8 @@ Each service recap provides an overview of the service, its key features, and a 
 If you want to explore AWS services that you haven't yet touched, this repository offers curated learning resources. These resources include:
 
 - Official AWS documentation for each service
-- Step-by-step tutorials and guides
+- Udemy Course
 - Hands-on labs and exercises
-- YouTube video tutorials and online courses
 - Recommended blog posts and articles
 
 The learning resources are organized by service and provide a starting point for diving into new AWS technologies.
