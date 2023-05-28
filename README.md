@@ -32,6 +32,7 @@ This repository includes recaps of the following AWS services:
 - Amazon DynamoDB
 - Amazon SQS (Simple Queue Service)
 - Amazon SNS (Simple Notification Service)
+- Event Bridge
 - Amazon Lambda
 - Amazon API Gateway
 - Route53 & CloudFront 
