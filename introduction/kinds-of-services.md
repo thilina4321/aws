@@ -1,6 +1,6 @@
 # Kind Of Services
 
-## Self service and Manage Service, Services
+## Self service & Manage Service, Services
 
 ## Self Service Services
 
