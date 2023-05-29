@@ -1,4 +1,4 @@
-# AWS Services Recap for new UI changes and Learning Repository
+# AWS Services Recap for new UI changes and Learning Untouched
 
 This repository serves as a comprehensive collection of AWS service recaps and learning resources. It includes updated user interfaces (UIs) for various AWS services and also provides guidance for exploring AWS services that you haven't yet touched. Whether you are a beginner or an experienced AWS user, this repository aims to help you review existing services and expand your knowledge by exploring new ones.
 
